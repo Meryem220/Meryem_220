@@ -1,12 +1,12 @@
 [![MasterHead](https://www.cuelogic.com/wp-content/uploads/2021/06/Best-IoT-Prog-Languages-BLOG-IMAGE4.png)
-<h1 align="center">Hi 👋, I'm Beyza Nur YILDIRIM</h1>
+<h1 align="center">Hi 👋, I'm Saliha M. Özdemir</h1>
 <h3 align="center">I am a software engineering student in TÜRKİYE</h3>
 
-- 🔭 I’m currently working on **Artificial intelligence**
+- 🔭 I’m currently working on **Cyber Securıty & Artificial intelligence**
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
-- 📫 How to reach me **06beyza336@gmail.com**
+- 📫 How to reach me **salihahilas@gmail.com**
 
 - ⚡ Fun fact **Software**
 
